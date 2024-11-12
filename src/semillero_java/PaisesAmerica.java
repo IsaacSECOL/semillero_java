@@ -4,9 +4,11 @@ public class PaisesAmerica {
 
 	public static void main(String[] args) {
 		String[] paises = {
-	            "Perú", "Chile", "Cuba", "Brasil", "México", "Canadá", "Honduras",
-	            "Colombia", "Uruguay", "Paraguay", "Argentina", "Ecuador", "Guyana",
-	            "Panamá", "Belice", "Venezuela", "Surinam", "Bolivia", "Jamaica"
+	            "Antigua y Barbuda", "Argentina", "Bahamas", "Barbados", "Belice", "Bolivia",
+	            "Brasil", "Canadá", "Chile", "Colombia", "Costa Rica", "Cuba", "Ecuador", "El Salvador", "Estados Unidos", "Granada",
+	            "Guatemala", "Guyana", "Haití", "Honduras", "Jamaica", "México", "Nicaragua", "Panamá",
+	            "Paraguay", "Perú", "Republica Dominicana", "San Cristóbal y Nieves", "San Vicente y las Granadinas", "Santa Lucía",
+	            "Surinam", "Trinidad y Tobago", "Uruguay", "Venezuela"
 	        };
 
 	        int paises4Letras = contarPaisesDe4Letras(paises);
